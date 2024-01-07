@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>WebAPI_WithWebLibrary_NET8</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <InvariantGlobalization>true</InvariantGlobalization>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WebAPI-WebLibrary-FrameworkReference-NET8\WebAPI-WebLibrary-FrameworkReference-NET8.csproj" />
+    <ProjectReference Include="..\WebAPI-WebLibrary-NET8\WebAPI-WebLibrary-NET8.csproj" />
+  </ItemGroup>
+
+</Project>

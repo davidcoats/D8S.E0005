@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\WebAPI-WithWebLibrary-NET8.props" />
+</Project>

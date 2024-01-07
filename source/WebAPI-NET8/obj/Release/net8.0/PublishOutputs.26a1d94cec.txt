@@ -1,0 +1,7 @@
+C:\Code\DEV\Git\GitHub\davidcoats\D8S.E0005\source\WebAPI-NET8\bin\publish\WebAPI-NET8.exe
+C:\Code\DEV\Git\GitHub\davidcoats\D8S.E0005\source\WebAPI-NET8\bin\publish\appsettings.Development.json
+C:\Code\DEV\Git\GitHub\davidcoats\D8S.E0005\source\WebAPI-NET8\bin\publish\appsettings.json
+C:\Code\DEV\Git\GitHub\davidcoats\D8S.E0005\source\WebAPI-NET8\bin\publish\WebAPI-NET8.dll
+C:\Code\DEV\Git\GitHub\davidcoats\D8S.E0005\source\WebAPI-NET8\bin\publish\WebAPI-NET8.deps.json
+C:\Code\DEV\Git\GitHub\davidcoats\D8S.E0005\source\WebAPI-NET8\bin\publish\WebAPI-NET8.runtimeconfig.json
+C:\Code\DEV\Git\GitHub\davidcoats\D8S.E0005\source\WebAPI-NET8\bin\publish\WebAPI-NET8.pdb

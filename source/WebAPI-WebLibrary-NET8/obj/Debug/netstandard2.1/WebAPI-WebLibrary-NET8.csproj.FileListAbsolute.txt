@@ -1,0 +1,5 @@
+C:\Code\DEV\Git\GitHub\davidcoats\D8S.E0005\source\WebAPI-WebLibrary-NET8\obj\Debug\netstandard2.1\WebAPI-WebLibrary-NET8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\DEV\Git\GitHub\davidcoats\D8S.E0005\source\WebAPI-WebLibrary-NET8\obj\Debug\netstandard2.1\WebAPI-WebLibrary-NET8.AssemblyInfoInputs.cache
+C:\Code\DEV\Git\GitHub\davidcoats\D8S.E0005\source\WebAPI-WebLibrary-NET8\obj\Debug\netstandard2.1\WebAPI-WebLibrary-NET8.AssemblyInfo.cs
+C:\Code\DEV\Git\GitHub\davidcoats\D8S.E0005\source\WebAPI-WebLibrary-NET8\obj\Debug\netstandard2.1\WebAPI-WebLibrary-NET8.csproj.CoreCompileInputs.cache
+C:\Code\DEV\Git\GitHub\davidcoats\D8S.E0005\source\WebAPI-WebLibrary-NET8\obj\Debug\netstandard2.1\WebAPI-WebLibrary-NET8.sourcelink.json

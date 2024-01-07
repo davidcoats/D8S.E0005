@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebAPI-NET8.props" />
+</Project>

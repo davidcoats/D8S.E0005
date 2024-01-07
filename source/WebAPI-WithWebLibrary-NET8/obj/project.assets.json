@@ -1,0 +1,125 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "WebAPI-WebLibrary-FrameworkReference-NET8/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/WebAPI-WebLibrary-FrameworkReference-NET8.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WebAPI-WebLibrary-FrameworkReference-NET8.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
+      "WebAPI-WebLibrary-NET8/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/WebAPI-WebLibrary-NET8.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WebAPI-WebLibrary-NET8.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "WebAPI-WebLibrary-FrameworkReference-NET8/1.0.0": {
+      "type": "project",
+      "path": "../WebAPI-WebLibrary-FrameworkReference-NET8/WebAPI-WebLibrary-FrameworkReference-NET8.csproj",
+      "msbuildProject": "../WebAPI-WebLibrary-FrameworkReference-NET8/WebAPI-WebLibrary-FrameworkReference-NET8.csproj"
+    },
+    "WebAPI-WebLibrary-NET8/1.0.0": {
+      "type": "project",
+      "path": "../WebAPI-WebLibrary-NET8/WebAPI-WebLibrary-NET8.csproj",
+      "msbuildProject": "../WebAPI-WebLibrary-NET8/WebAPI-WebLibrary-NET8.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "WebAPI-WebLibrary-FrameworkReference-NET8 >= 1.0.0",
+      "WebAPI-WebLibrary-NET8 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\David\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Code\\DEV\\Git\\GitHub\\davidcoats\\D8S.E0005\\source\\WebAPI-WithWebLibrary-NET8\\WebAPI-WithWebLibrary-NET8.csproj",
+      "projectName": "WebAPI-WithWebLibrary-NET8",
+      "projectPath": "C:\\Code\\DEV\\Git\\GitHub\\davidcoats\\D8S.E0005\\source\\WebAPI-WithWebLibrary-NET8\\WebAPI-WithWebLibrary-NET8.csproj",
+      "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
+      "outputPath": "C:\\Code\\DEV\\Git\\GitHub\\davidcoats\\D8S.E0005\\source\\WebAPI-WithWebLibrary-NET8\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\David\\Dropbox\\Organizations\\Rivet\\Packages": {},
+        "C:\\Users\\David\\Dropbox\\Organizations\\Rivet\\Shared\\Packages": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Code\\DEV\\Git\\GitHub\\davidcoats\\D8S.E0005\\source\\WebAPI-WebLibrary-FrameworkReference-NET8\\WebAPI-WebLibrary-FrameworkReference-NET8.csproj": {
+              "projectPath": "C:\\Code\\DEV\\Git\\GitHub\\davidcoats\\D8S.E0005\\source\\WebAPI-WebLibrary-FrameworkReference-NET8\\WebAPI-WebLibrary-FrameworkReference-NET8.csproj"
+            },
+            "C:\\Code\\DEV\\Git\\GitHub\\davidcoats\\D8S.E0005\\source\\WebAPI-WebLibrary-NET8\\WebAPI-WebLibrary-NET8.csproj": {
+              "projectPath": "C:\\Code\\DEV\\Git\\GitHub\\davidcoats\\D8S.E0005\\source\\WebAPI-WebLibrary-NET8\\WebAPI-WebLibrary-NET8.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

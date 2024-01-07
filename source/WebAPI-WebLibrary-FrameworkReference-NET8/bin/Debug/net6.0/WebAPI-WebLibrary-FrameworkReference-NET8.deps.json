@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WebAPI-WebLibrary-FrameworkReference-NET8/1.0.0": {
+        "runtime": {
+          "WebAPI-WebLibrary-FrameworkReference-NET8.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebAPI-WebLibrary-FrameworkReference-NET8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

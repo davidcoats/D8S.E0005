@@ -1,0 +1,12 @@
+C:\Code\DEV\Git\GitHub\davidcoats\D8S.E0005\source\WebAPI-WebLibrary-FrameworkReference-NET8\bin\Debug\net6.0\WebAPI-WebLibrary-FrameworkReference-NET8.deps.json
+C:\Code\DEV\Git\GitHub\davidcoats\D8S.E0005\source\WebAPI-WebLibrary-FrameworkReference-NET8\bin\Debug\net6.0\WebAPI-WebLibrary-FrameworkReference-NET8.dll
+C:\Code\DEV\Git\GitHub\davidcoats\D8S.E0005\source\WebAPI-WebLibrary-FrameworkReference-NET8\bin\Debug\net6.0\WebAPI-WebLibrary-FrameworkReference-NET8.pdb
+C:\Code\DEV\Git\GitHub\davidcoats\D8S.E0005\source\WebAPI-WebLibrary-FrameworkReference-NET8\obj\Debug\net6.0\WebAPI-WebLibrary-FrameworkReference-NET8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\DEV\Git\GitHub\davidcoats\D8S.E0005\source\WebAPI-WebLibrary-FrameworkReference-NET8\obj\Debug\net6.0\WebAPI-WebLibrary-FrameworkReference-NET8.AssemblyInfoInputs.cache
+C:\Code\DEV\Git\GitHub\davidcoats\D8S.E0005\source\WebAPI-WebLibrary-FrameworkReference-NET8\obj\Debug\net6.0\WebAPI-WebLibrary-FrameworkReference-NET8.AssemblyInfo.cs
+C:\Code\DEV\Git\GitHub\davidcoats\D8S.E0005\source\WebAPI-WebLibrary-FrameworkReference-NET8\obj\Debug\net6.0\WebAPI-WebLibrary-FrameworkReference-NET8.csproj.CoreCompileInputs.cache
+C:\Code\DEV\Git\GitHub\davidcoats\D8S.E0005\source\WebAPI-WebLibrary-FrameworkReference-NET8\obj\Debug\net6.0\WebAPI-WebLibrary-FrameworkReference-NET8.sourcelink.json
+C:\Code\DEV\Git\GitHub\davidcoats\D8S.E0005\source\WebAPI-WebLibrary-FrameworkReference-NET8\obj\Debug\net6.0\WebAPI-WebLibrary-FrameworkReference-NET8.dll
+C:\Code\DEV\Git\GitHub\davidcoats\D8S.E0005\source\WebAPI-WebLibrary-FrameworkReference-NET8\obj\Debug\net6.0\refint\WebAPI-WebLibrary-FrameworkReference-NET8.dll
+C:\Code\DEV\Git\GitHub\davidcoats\D8S.E0005\source\WebAPI-WebLibrary-FrameworkReference-NET8\obj\Debug\net6.0\WebAPI-WebLibrary-FrameworkReference-NET8.pdb
+C:\Code\DEV\Git\GitHub\davidcoats\D8S.E0005\source\WebAPI-WebLibrary-FrameworkReference-NET8\obj\Debug\net6.0\ref\WebAPI-WebLibrary-FrameworkReference-NET8.dll
