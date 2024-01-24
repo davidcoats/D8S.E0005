@@ -1,3 +1,0 @@
-C:\Code\DEV\Git\GitHub\davidcoats\D8S.E0005\source\WebAPI-WebLibrary-NET8\bin\publish\WebAPI-WebLibrary-NET8.dll
-C:\Code\DEV\Git\GitHub\davidcoats\D8S.E0005\source\WebAPI-WebLibrary-NET8\bin\publish\WebAPI-WebLibrary-NET8.deps.json
-C:\Code\DEV\Git\GitHub\davidcoats\D8S.E0005\source\WebAPI-WebLibrary-NET8\bin\publish\WebAPI-WebLibrary-NET8.pdb
